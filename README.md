@@ -10,7 +10,7 @@ In this lab, you'll allow users to save their favorite movies and view them in a
 ### 🎯 Goals
 
 By the end of this lab you will be able to...
-- [ ] Set up a tab bar and multiple tabs using a *Tab Bar Controller*
+- [X] Set up a tab bar and multiple tabs using a *Tab Bar Controller*
 - [ ] Save, retrieve and delete data from local storage using *UserDefaults*
 - [ ] Create custom buttons styled for their various states
 
